@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    padding: 50px;
+}
+.sec-1{
+    background-color: black;
+    color: white;
+    border-radius: 30px;
+    margin-bottom: 25px;
+}
+.sec-1__name{
+    font-size: 60px;
+    font-family: cursive;
+    padding-left: 20px;
+}
+.sec-1__role{
+    font-size: 30px;
+    padding-left: 20px;
+}
+.sec-1__home{
+    background-color: orangered;
+    color: white;
+    margin-left: 60px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: none;
+}
+.sec-2{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    border-radius: 20px;
+    margin-top: 25px;
+}
+.sec-2__sm{
+    font-size: 15px;
+    display: inline;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.sec-2__link{
+    font-size: 15px;
+    color: skyblue;
+    display: inline;
+}
+.sec-2__wm{
+    margin-top: 10px;
+}
+.sec-3__name,.sec-3__message,.sec-3__email,.sec-3__dep,.sec-3__submit{
+    margin-top: 12px;
+}
+.sec-3__name,.sec-3__email{
+    padding: 5px;
+    border: none;
+    border: 2px dotted black;
+}
+.sec-3__dep{
+    margin-left: 30px;
+
+}
+.sec-3__submit{
+    border: none;
+    color: white;
+    background-color: orangered;
+    margin-left: 60px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
